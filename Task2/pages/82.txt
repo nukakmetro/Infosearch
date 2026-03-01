@@ -1,0 +1,166 @@
+<!DOCTYPE html> <html lang="ru"> <head> <script>
+  const caramelJS = document.createElement('script'); 
+  caramelJS.src = "https://ads.digitalcaramel.com/caramel.js?ts="+new Date().getTime();
+  caramelJS.async = true;
+  document.head.appendChild(caramelJS);
+</script> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <title>Танцующая с волками, Сёстры Нолан - чтение онлайн</title> <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> <meta charset="utf-8"> <meta name="description" content="Танцующая с волками, Автор - Сёстры Нолан, , Жанр - Любовно-фантастические романы, Любовные романы. Чтение онлайн, доступна полная версия книги."> <meta name="keywords" content="Танцующая с волками, Сёстры Нолан - чтение онлайн"> <link rel="canonical" href="https://read.xbook.life/books_tancuyuschaya-s-volkami_103731402"/> <link rel="icon" href="https://css.xbook.life/design/img/favicon.svg"> <meta property="og:url" content="https://read.xbook.life/books_tancuyuschaya-s-volkami_103731402" /> <meta property="og:type" content="website" /> <meta property="og:image" content="https://css.xbook.life/yy/oooo/vv/?uyt=103731402" /> <meta property="og:title" content="Танцующая с волками, Сёстры Нолан - чтение онлайн" /> <meta property="og:site_name" content="xBook - электронная библиотека" /> <meta property="og:description" content="Танцующая с волками, Автор - Сёстры Нолан, , Жанр - Любовно-фантастические романы, Любовные романы. Чтение онлайн, доступна полная версия книги." /> <meta name="language" content="ru"> <meta name="theme-color" content="#000"> <link rel="apple-touch-icon" sizes="180x180" href="https://css.xbook.life/design/img/emblem.png"> <script async="" src="https://css.xbook.life/design/jscr/tag.js"></script> <script src="https://css.xbook.life/design/jscr/jquery-3.5.1.min.js"></script> <link rel="stylesheet" href="https://css.xbook.life/design/c_s_s/s.css?o=8.407"> <script src="https://css.xbook.life/design/jscr/common.js"></script>         <script type="text/javascript">
+            (function(m, e, t, r, i, k, a) {
+                m[i] = m[i] || function() {
+                    (m[i].a = m[i].a || []).push(arguments)
+                };
+                m[i].l = 1 * new Date();
+                k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+            })(window, document, 'script', '//mc.yandex.ru/metrika/tag.js', 'ym');
+
+            ym(98586866, 'init', {accurateTrackBounce: true, trackLinks: true, clickmap: true, params: {__ym: {isFromApi: 'yesIsFromApi'}}});
+        </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/98586866" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    </head> <body class="main_body"> <!--fullscreen1--> <header class="header"> <div class="head"> <div class="head__wrap"> <div class="div_menu"> <a href="/" class="a_menu">на главную</a> </div> <div class="div_main_title"> <h1 class="h_main_title">Чтение онлайн</h1> </div> </div> </div> </header> <div class="head"> 
+<div class="head__form">
+    <form action="/" class="form_search" name="yu">
+        <div class="div_search">
+            <input type="text" name="ui" class="input_search" placeholder="Название книги, автор" value="">
+        </div>
+        <div class="div_search_btns switcher">
+            <div class="switcher__box">
+                <h3 class="search_type knigi_type search_type_active">КНИГИ</h3>
+                <div class="switcher__wrp">
+                    <img src="https://css.xbook.life/design/img/switch.png" alt="switch" class="switcher__image">
+                </div>
+                <h3 class="search_type avtor_type ">АВТОРЫ</h3>
+            </div>
+            <button class="btn">найти</button>
+        </div>
+    </form>
+</div>
+<script>
+    $('.knigi_type').click(function(event) {
+        $('.knigi_type').addClass('search_type_active');
+        $('.avtor_type').removeClass('search_type_active');
+        document.forms.yu.action = "/";
+
+        if (document.forms.yu.ui.value == 'устинова' | '' == document.forms.yu.ui.value) {
+            document.forms.yu.ui.value = 'волк';
+        }
+    });
+    $('.avtor_type').click(function(event) {
+        $('.avtor_type').addClass('search_type_active');
+        $('.knigi_type').removeClass('search_type_active');
+        document.forms.yu.action = "/authors";
+
+        if (document.forms.yu.ui.value == 'волк' | '' == document.forms.yu.ui.value) {
+            document.forms.yu.ui.value = 'устинова';
+        }
+    });
+</script> </div> <div class="head genre_block">
+    <div class="div_main_genry_block">
+        <div class="div_genre_header">
+                        <h3 class="h3_genre h3_genre--right hider is-active hiderBtn"><i class="hider__icon"></i>ЖАНРЫ</h3>
+        </div>
+        <div class="div_genre_list">
+            <div class="div_genre"><a href="/genres_delovaya-literatura_3352" class="a_genre"><h3 class="h_genre">Деловая литература</h3></a></div><div class="div_genre"><a href="/genres_detektivy_642" class="a_genre"><h3 class="h_genre">Детективы</h3></a></div><div class="div_genre"><a href="/genres_detskie_3202" class="a_genre"><h3 class="h_genre">Детские</h3></a></div><div class="div_genre"><a href="/genres_dokumentalnaya-literatura_1652" class="a_genre"><h3 class="h_genre">Документальная литература</h3></a></div><div class="div_genre"><a href="/genres_dom-i-semya_1332" class="a_genre"><h3 class="h_genre">Дом и Семья</h3></a></div><div class="div_genre"><a href="/genres_dramaturgiya_63632" class="a_genre"><h3 class="h_genre">Драматургия</h3></a></div><div class="div_genre"><a href="/genres_zhanr-ne-opredelen_57252" class="a_genre"><h3 class="h_genre">Жанр не определен</h3></a></div><div class="div_genre"><a href="/genres_kompyutery-i-internet_2512" class="a_genre"><h3 class="h_genre">Компьютеры и Интернет</h3></a></div><div class="div_genre"><a href="/genres_lyubovnye-romany_472" class="a_genre"><h3 class="h_genre">Любовные романы</h3></a></div><div class="div_genre"><a href="/genres_nauchno-obrazovatelnaya_2022" class="a_genre"><h3 class="h_genre">Научно-образовательная</h3></a></div><div class="div_genre"><a href="/genres_poeziya_2342" class="a_genre"><h3 class="h_genre">Поэзия</h3></a></div><div class="div_genre"><a href="/genres_priklyucheniya_1162" class="a_genre"><h3 class="h_genre">Приключения</h3></a></div><div class="div_genre"><a href="/genres_proza_322" class="a_genre"><h3 class="h_genre">Проза</h3></a></div><div class="div_genre"><a href="/genres_prochee_56072" class="a_genre"><h3 class="h_genre">Прочее</h3></a></div><div class="div_genre"><a href="/genres_religiya-i-ezoterika_2662" class="a_genre"><h3 class="h_genre">Религия и эзотерика</h3></a></div><div class="div_genre"><a href="/genres_spravochnaya-literatura_3032" class="a_genre"><h3 class="h_genre">Справочная литература</h3></a></div><div class="div_genre"><a href="/genres_starinnaya-literatura_2172" class="a_genre"><h3 class="h_genre">Старинная литература</h3></a></div><div class="div_genre"><a href="/genres_tehnika_62302" class="a_genre"><h3 class="h_genre">Техника</h3></a></div><div class="div_genre"><a href="/genres_fantastika_2" class="a_genre"><h3 class="h_genre">Фантастика</h3></a></div><div class="div_genre"><a href="/genres_folklor_65502" class="a_genre"><h3 class="h_genre">Фольклор</h3></a></div><div class="div_genre"><a href="/genres_yumor_1502" class="a_genre"><h3 class="h_genre">Юмор</h3></a></div> 
+        </div>
+    </div>
+</div>
+
+ <script> $('.div_genre_list').addClass('display_none'); </script> <div class="main"> <div class="center_col"> <div class="knigi_ramka"> <div class="block_series_view"> <div class="div_s_view_str"> <div class="div_s_view_name"> <h5 class="h_s_view_name">Танцующая с волками</h5> </div> <div class="div_read_view_r"> <a href="/books_tancuyuschaya-s-volkami_103731402" class="a_back">на обложку</a> </div> </div> <div class="div_s_view_author"> <a href="/author_134377705" class="a_s_view_author" ><h2 class="a_s_view_author">Сёстры Нолан</h2></a> </div> </div> </div> <div class="block_read_text" style="overflow-wrap: anywhere; font-family: Georgia; font-size: 17px"> <div class="div_read_settings"> <div class="div_read_panel"> <h5 class="h_font_header">Шрифт:</h5> <select class="select_font"><option class="option_font" value="Arial">Arial</option><option class="option_font" value="Century">Century</option><option class="option_font" value="Courier">Courier</option><option class="option_font" value="Georgia" selected>Georgia</option><option class="option_font" value="Tahoma">Tahoma</option><option class="option_font" value="Verdana">Verdana</option><option class="option_font" value="Times New Roman">Times New Roman</option></select> <div class="div_read_panel2"> <button class="button_plus_minus btnDec" title="Меньше">-</button> <button class="button_plus_minus btnInc" title="Больше">+</button> <button class="button_dark gray_bg" title="День - ночь"></button> </div> </div> </div> <!--x_read0--><p>Волчица сдержала всхлип отчаяния, превращая первые эмоции в злость.</p> <p>– Видел Альфу? – звенящим от возмущения голосом спросила она Дерека.</p> <p>– Наверное, на лесопилке, – пожал плечами тот.</p> <p>– Или к свадьбе готовится, – добавил второй ликант, мимоходом откатывая бочку.</p> <p>– Какой свадьбе? – сжав письмо в руке, она уставилась на парней, не заметив, что задрожала всем телом.</p> <p>– Ну ты чего, Кэт? – рассмеялись они. – Вся стая второй день гудит. Альфа женится на охотнице. Прикол, да?</p> <p>Ликанты снова принялись обсуждать новость, с энтузиазмом обсасывая подробности, и не заметили, как побледневшая волчица бросилась прочь.</p> <p>«Он обманул», – болезненная <div caramel-id="01jeasrzvf3s40e1ze37m057q8"></div>
+    
+<div style="display: flex; justify-content: space-around;">
+<div caramel-id="01jfvr54bddpvantwcybcqw6b3"></div>
+<div caramel-id="01jfvqxcpxc9tyn91x5hkpq9c1"></div>
+<div caramel-id="01jeash362n3vj0apfdrcd1sfs"></div>
+</div>
+мысль пульсировала в висках. Она бежала, не разбирая дороги, словно за ней гналась стая диких, и лишь знакомый голос, настигший её на границе леса, заставил её остановиться.</p> <p>– Кэтрин, дочка, ты куда так торопишься? – Тэлута стояла у дверей своей хижины, наблюдая за волчицей, которая пыталась отдышаться после гонки.</p> <p>Внимательный взгляд женщины, прошёлся по всклокоченным волосам, блестящим от слёз глазам и раскрасневшимся мокрым щекам, а затем опустился к запястью.</p> <p>– Красивый браслет, – улыбнулась старушка и подмигнула Кэтрин. – Может, зайдёшь ко мне на чай? Давно мы с тобой не болтали.</p> <p>С этими словами она скрылась в доме, пока Кэтрин с удивлением разглядывала украшение на руке, как будто видела его впервые.</p> <p>Из груди вырвалось надрывное рычание. Волчица остервенело рванула с себя подарок Альфы, так, что тонкая леска лопнула, и сочные ягоды бусин, брызнув в разные стороны, мигом затерялись в траве.</p> <div class="text_title"><p>Глава 17</p> </div><div class="div_img"><div><img class="img_in_r" src="https://css.xbook.life/yy/oooo/cv?uyt=103731402&g=19&h=jpg" /></div></div></image><p><span class="text_emphasis">Ульрих прислонился спиной к широкому стволу секвойи и тяжело вздохнул. От происходящего голова шла кругом. Ещё пару месяцев назад он был охотником и жил в казармах центральной базы, а теперь свободно разгуливает по резервации среди ликантов.</span></p> <p><span class="text_emphasis">На удивление его встретили как родного: старики принялись охать и причитать, насколько сын похож на отца, а молодые оборотни радостно приветствовали, словно Ульрих был своим. Либо Иван постарался представить молодого волка в лучшем свете, либо в стае было принято тепло относиться к невесть откуда взявшимся сородичам, но он действительно почувствовал, что попал <!--x_read2-->в семью. И как бы ни было поначалу неловко, с каждой минутой, проведённой в резервации, ему всё меньше хотелось покинуть это место.</span></p> <p><span class="text_emphasis">– Эй, – из-за дерева вдруг показалась девушка с длинными светлыми волосами и прервала его размышления. – Уже уходишь от нас?</span></p> <p><span class="text_emphasis">Ульрих узнал её. Когда Иван привёл его в стаю, она оказалась одной из первых, кто захотел познакомиться с наследником Бальтара.</span></p> <p><span class="text_emphasis">– Ты ведь Кэтрин, верно? – Он не стал говорить, что давно заметил хрупкий силуэт, любопытной тенью скользящий за ним между домами.</span></p> <p><span class="text_emphasis">Девушка сделала ещё один шаг вперёд и кивнула, не сводя с него изучающего взгляда. Казалось, волчица обдумывает, не зря ли она вышла из укрытия и стоит ли поддерживать этот разговор. У неё вполне могли найтись дела поинтереснее общения с чужаком, но Ульриху вдруг захотелось, чтобы она задержалась хотя бы на пару минут. Несмотря на всеобщее внимание, он ещё никогда не чувствовал себя таким одиноким.</span></p> <p><span class="text_emphasis">– Иван сказал, что ты можешь мне всё тут показать, – поспешно выпалил он и неопределённо махнул рукой вокруг себя, удивляясь внезапно появившемуся смущению.</span></p> <p><span class="text_emphasis">– Могу, – равнодушно пожала плечами Кэтрин, – но смотреть тут не на что. Две улицы да разбитые дома.</span></p> <p><span class="text_emphasis">– <div caramel-id="01jeasrzvf3s40e1ze37m057q8"></div>
+    
+<div caramel-id="01jeat4wj7e42bp1pen5g5n5g2"></div>
+И как же вы развлекаетесь на этих двух улицах?</span></p> <p><span class="text_emphasis">– Всё самое интересное происходит в лесу, – загадочно улыбнулась Кэтрин и потянула его за руку. – Идём.</span></p> <p><span class="text_emphasis">Она повела его в самую чащу, подальше от исхоженных троп, попутно отвечая на вопросы о быте ликантов, шутя и открыто флиртуя. Ульрих, не задумываясь, шёл следом. Её лёгкий нрав очаровал с первых минут, хотелось говорить обо всём на свете, лишь бы прогулка не заканчивалась.</span></p> <p><span class="text_emphasis">Наконец они остановились на небольшой поляне, усыпанной маленькими жёлтыми цветами. Кое-где их было почти не видать из-за зарослей осоки. А дальше деревья росли настолько плотно друг к другу, что лес казался непроходимой стеной, укрывшей от внешнего мира этот цветущий островок.</span></p> <p><span class="text_emphasis">– Ты ведь контролируешь свои обращения? – Кэтрин вдруг обернулась к Ульриху и, выпустив его руку, отошла на пару шагов.</span></p> <p><span class="text_emphasis">– Несколько раз выходило довольно паршиво, но, надеюсь, перед такой девушкой я не ударю в грязь лицом.</span></p> <p><span class="text_emphasis">Говоря последнюю фразу, он старался смотреть куда угодно, но не на волчицу, медленно стягивающую с себя одежду. Она же не сводила с него глаз, забавляясь над порозовевшими от смущения щеками парня, который явно оказался не готов к такому повороту событий.</span></p> <p><span class="text_emphasis">– Тогда, – игриво поведя бровями, она шагнула от него к высокой траве и, прежде чем сорваться с места, крикнула через плечо, – догони меня!</span></p> <p><span class="text_emphasis">Она ловко сменила облик на ходу, и через пару мгновений взгляду Ульриха предстала белая волчица. В один прыжок преодолев поляну, оборотень скрылась в чаще.</span></p> <p><span class="text_emphasis">Странный восторг захватил его настолько, что он забыл обо всём на свете. Внутренний зверь рвался в погоню, царапал когтями грудную клетку, и Ульрих не стал ему противиться, выпустив на волю. Он и сам не понял, в какой момент побежал следом, в какой момент начал перевоплощаться, отбросив мешающие движению лохмотья, в которые превратилась его одежда. Все мысли разом исчезли, окружающий <!--x_read5-->мир сузился до белой точки, мелькающей впереди между деревьев.</span></p> <p><span class="text_emphasis">Два волка – чёрный и белый – мчались через лес, пугая птиц и мелкую живность. Азарт разгонял кровь по венам молодого ликанта, заставляя каждую клетку тела трепетать от возбуждения, вызванного охотой. Он упивался предоставленной свободой, желая лишь одного – догнать преследуемую цель.</span></p> <p><span class="text_emphasis">Кэтрин оказалась достойной соперницей. Проворная, она умело уходила от погони, петляла и запутывала соперника, ведь этот лес был её родной стихией. Низко растущие ветки хлестали морду зверя, разжигая в нём первобытную ярость, в то время как волчица легко проскальзывала сквозь самую гущу кустарника.</span></p> <p><span class="text_emphasis">Однако она явно проигрывала в скорости новообращённому оборотню. Увлечённый гонкой ликант довольно быстро сократил расстояние между ними и уже мог почувствовать беспокойство своей жертвы.</span></p> <p><span class="text_emphasis">Поначалу Кэтрин собиралась вести его в известном ей направлении, но как только заметила, что он вот-вот её настигнет, резко свернула в другую сторону, желая оторваться. Деревья вокруг стали редеть, волки приближались к подножию скалистых гор, окружавших территорию ликантов неприступной стеной.</span></p> <div caramel-id="01jeasrzvf3s40e1ze37m057q8"></div>
+
+<div style="display: flex; justify-content: space-around;">
+<div caramel-id="01jfvr54bddpvantwcybcqw6b3"></div>
+<div caramel-id="01jfvqxcpxc9tyn91x5hkpq9c1"></div>
+<div caramel-id="01jeash362n3vj0apfdrcd1sfs"></div>
+</div>
+<!--fsb-read2--> </div> <div class="div_paging_block"> <a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=1">1</a><span class="dot_dot">-</span><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=62">62</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=63">63</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=64">64</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=65">65</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=66">66</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=67">67</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=68">68</a><a class="a_paging_active" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=69">69</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=70">70</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=71">71</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=72">72</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=73">73</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=74">74</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=75">75</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=76">76</a><span class="dot_dot">-</span><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=125">125</a> </div> <script src="https://yastatic.net/share2/share.js" async></script> <div class="knigi_ramka" style="text-align: center;"> <script src="https://yastatic.net/share2/share.js"></script> <div style="padding-bottom:10px;">Поделиться с друзьями:</div> <div class="ya-share2" data-curtain data-url="https://read.xbook.life/books_tancuyuschaya-s-volkami_103731402" data-size="l" data-shape="round" data-services="telegram,whatsapp,viber,skype,vkontakte"></div> </div> </div> <div class="right_col right_col_disp_none"> <!--right_col--> </div> </div> <script>    
+    $('.a_read_note').hover(function () {
+        var dd = $(this).attr('id');
+        $("#book_"+dd).children("div").remove();
+        var inf = $("#book_"+dd).html();
+        
+        $('<div class="div_read_note"></div>').html(inf).appendTo('body').fadeIn('fast');
+   
+    }, function () {
+        $('.div_read_note').remove();
+    }).mousemove(function (e) {
+        var xb = $('.div_read_note').outerWidth(true);
+        var xscr = $(window).width();
+        var yscr = $(window).height();
+        if ((xscr - e.pageX) < xb) {
+            var mousex = e.pageX - xb - 10;
+        } else {
+            var mousex = e.pageX + 20;
+        }
+        if (mousex < 0)
+            mousex = 5;
+        if (mousex + xb > xscr)
+            mousex = xscr - xb - 5;
+        var mousey = e.pageY + 10;
+        $('.div_read_note').css({top: mousey, left: mousex})
+    });
+    
+                $(".select_font").change(function () {
+                
+                document.cookie = "gh ngnv=" + this.value + "; path=/; expires=Tue, 19 Jan 2038 03:14:07 GMT";
+                $('.block_read_text').css('font-family', this.value);
+            });
+            $(".btnInc").click(function () {
+                $('.block_read_text').css('font-size', '+=1');
+                setCookieFontSize();
+            });
+            $(".btnDec").click(function () {
+                $('.block_read_text').css('font-size', '-=1');
+                setCookieFontSize();
+            });
+
+            function setCookieFontSize()
+            {
+                document.cookie = "gfhhvc=" + $(".block_read_text").css("font-size") + "; path=/; expires=Tue, 19 Jan 2038 03:14:07 GMT";
+            }
+            var is_dark = 0;
+            $('.button_dark').on('click', function (event) {
+                event.preventDefault();
+                set_dark();
+            });
+            function set_dark()
+            {
+                $('.footer').toggleClass('gray_bg');
+
+                $('body').toggleClass('dark_bg');
+
+                $('.head').toggleClass('dark_bg');
+                
+                
+                
+                $('.knigi_ramka').toggleClass('dark_bg');
+                
+                $('div').toggleClass('white_color');
+
+                $('.main').toggleClass('dark_bg');
+                $('.knigi_seriya').toggleClass('dark_color');
+                $('.knigi_genre').toggleClass('dark_color');
+                $('.knigi_r').toggleClass('dark_color');
+
+                $('.a_menu').toggleClass('white_color');
+                $('.search_type').toggleClass('white_color');
+                
+                $('.a_paging_active').toggleClass('a_paging_active_dark');
+                
+                $('.font_header').toggleClass('white_color');
+                
+                if (0 == is_dark) {
+                    is_dark = 1;
+                } else {
+                    is_dark = 0;
+                }
+                document.cookie = "hffg=" + is_dark + "; path=/; expires=Tue, 19 Jan 2038 03:14:07 GMT";
+            }
+</script> <div class="footer"> <div class="footer_main"> <div class="footer_counter"> © 2024 xBook<br><br> Почта для связи: <a href="mailto:xbook.shoplift810@passfwd.com">xbook.shoplift810@passfwd.com</a> </div> </div> </div> <style> @media (max-width: 600px) { .wnd { text-align: left; height:max-content; width:100%; position:fixed; top:0; bottom:0; z-index:100; left:0; right:0; margin:auto; padding:0px; -webkit-box-shadow:4.5px 2.6px 12px rgba(0,0,0,.12); box-shadow:4.5px 2.6px 12px rgba(0,0,0,.12); background:#fff; color:#000; font-size:16px } .b_close { margin: 10px 10px 5px 220px; -webkit-border-radius: 10px; border-radius: 10px; color: #ffffff; background: #A54FBE; width: 90px; padding: 9px; font-size: 16px; display: inline-block; text-align: center; } } @media (min-width: 601px) { .wnd { display:block; text-align: left; height:max-content; width:455px; position:fixed; top:0; bottom:0; z-index:100; left:0; right:0; margin:auto; padding:10px; -webkit-box-shadow:4.5px 2.6px 12px rgba(0,0,0,.12); box-shadow:4.5px 2.6px 12px rgba(0,0,0,.12); background:#fff; color:#000; font-size:16px } .b_close { margin: 10px 10px 5px 330px; -webkit-border-radius: 10px; border-radius: 10px; color: #ffffff; background: #A54FBE; width: 90px; padding: 9px; font-size: 16px; display: inline-block; text-align: center; } } .b_close:hover { color: #ffffff; } .msg_error_red { color: red; } .a_wnd { text-decoration: underline; } .p_tooltip { margin:10px; } </style> </body> <script> $('.h3_genre').click(function(event) { $('.div_genre_list').toggleClass('display_none'); }); </script> <!--1.733200 sec.--> </html> 

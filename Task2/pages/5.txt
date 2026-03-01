@@ -1,0 +1,315 @@
+<!DOCTYPE html> <html lang="ru"> <head> <script>
+  const caramelJS = document.createElement('script'); 
+  caramelJS.src = "https://ads.digitalcaramel.com/caramel.js?ts="+new Date().getTime();
+  caramelJS.async = true;
+  document.head.appendChild(caramelJS);
+</script> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <title>Танцующая с волками, Сёстры Нолан, книга полностью, читать бесплатно</title> <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> <meta charset="utf-8"> <meta name="description" content="Танцующая с волками, Автор - Сёстры Нолан, , Жанр - Любовно-фантастические романы, Любовные романы. Читать бесплатно и без регмстрации, книга полностью."> <meta name="keywords" content="Танцующая с волками, Сёстры Нолан, книга полностью, читать бесплатно"> <link rel="canonical" href="https://read.xbook.life/books_tancuyuschaya-s-volkami_103731402"/> <link rel="icon" href="https://css.xbook.life/design/img/favicon.svg"> <meta property="og:url" content="https://read.xbook.life/books_tancuyuschaya-s-volkami_103731402" /> <meta property="og:type" content="website" /> <meta property="og:image" content="https://css.xbook.life/yy/oooo/vv/?uyt=103731402" /> <meta property="og:title" content="Танцующая с волками, Сёстры Нолан, книга полностью, читать бесплатно" /> <meta property="og:site_name" content="xBook - электронная библиотека" /> <meta property="og:description" content="Танцующая с волками, Автор - Сёстры Нолан, , Жанр - Любовно-фантастические романы, Любовные романы. Читать бесплатно и без регмстрации, книга полностью." /> <meta name="language" content="ru"> <meta name="theme-color" content="#000"> <link rel="apple-touch-icon" sizes="180x180" href="https://css.xbook.life/design/img/emblem.png"> <script async="" src="https://css.xbook.life/design/jscr/tag.js"></script> <script src="https://css.xbook.life/design/jscr/jquery-3.5.1.min.js"></script> <link rel="stylesheet" href="https://css.xbook.life/design/c_s_s/s.css?o=8.407"> <script src="https://css.xbook.life/design/jscr/common.js"></script>         <script type="text/javascript">
+            (function(m, e, t, r, i, k, a) {
+                m[i] = m[i] || function() {
+                    (m[i].a = m[i].a || []).push(arguments)
+                };
+                m[i].l = 1 * new Date();
+                k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+            })(window, document, 'script', '//mc.yandex.ru/metrika/tag.js', 'ym');
+
+            ym(98586866, 'init', {accurateTrackBounce: true, trackLinks: true, clickmap: true, params: {__ym: {isFromApi: 'yesIsFromApi'}}});
+        </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/98586866" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    </head> <body class="main_body"> <div caramel-id="01jkwfknqzz1rsc0ycmp1pakd7"></div>
+<div caramel-id="01k040nyfjs3mgsgewq0f3pvx1"></div><!--fullscreen1--> <header class="header"> <div class="head"> <div class="head__wrap"> <div class="div_menu"> <a href="/" class="a_menu">на главную</a> </div> <div class="div_main_title"> <h1 class="h_main_title">Танцующая с волками</h1> </div> </div> </div> </header> <div class="head"> 
+<div class="head__form">
+    <form action="/" class="form_search" name="yu">
+        <div class="div_search">
+            <input type="text" name="ui" class="input_search" placeholder="Название книги, автор" value="">
+        </div>
+        <div class="div_search_btns switcher">
+            <div class="switcher__box">
+                <h3 class="search_type knigi_type search_type_active">КНИГИ</h3>
+                <div class="switcher__wrp">
+                    <img src="https://css.xbook.life/design/img/switch.png" alt="switch" class="switcher__image">
+                </div>
+                <h3 class="search_type avtor_type ">АВТОРЫ</h3>
+            </div>
+            <button class="btn">найти</button>
+        </div>
+    </form>
+</div>
+<script>
+    $('.knigi_type').click(function(event) {
+        $('.knigi_type').addClass('search_type_active');
+        $('.avtor_type').removeClass('search_type_active');
+        document.forms.yu.action = "/";
+
+        if (document.forms.yu.ui.value == 'устинова' | '' == document.forms.yu.ui.value) {
+            document.forms.yu.ui.value = 'волк';
+        }
+    });
+    $('.avtor_type').click(function(event) {
+        $('.avtor_type').addClass('search_type_active');
+        $('.knigi_type').removeClass('search_type_active');
+        document.forms.yu.action = "/authors";
+
+        if (document.forms.yu.ui.value == 'волк' | '' == document.forms.yu.ui.value) {
+            document.forms.yu.ui.value = 'устинова';
+        }
+    });
+</script> </div> <div class="head genre_block">
+    <div class="div_main_genry_block">
+        <div class="div_genre_header">
+                        <h3 class="h3_genre h3_genre--right hider is-active hiderBtn"><i class="hider__icon"></i>ЖАНРЫ</h3>
+        </div>
+        <div class="div_genre_list">
+            <div class="div_genre"><a href="/genres_delovaya-literatura_3352" class="a_genre"><h3 class="h_genre">Деловая литература</h3></a></div><div class="div_genre"><a href="/genres_detektivy_642" class="a_genre"><h3 class="h_genre">Детективы</h3></a></div><div class="div_genre"><a href="/genres_detskie_3202" class="a_genre"><h3 class="h_genre">Детские</h3></a></div><div class="div_genre"><a href="/genres_dokumentalnaya-literatura_1652" class="a_genre"><h3 class="h_genre">Документальная литература</h3></a></div><div class="div_genre"><a href="/genres_dom-i-semya_1332" class="a_genre"><h3 class="h_genre">Дом и Семья</h3></a></div><div class="div_genre"><a href="/genres_dramaturgiya_63632" class="a_genre"><h3 class="h_genre">Драматургия</h3></a></div><div class="div_genre"><a href="/genres_zhanr-ne-opredelen_57252" class="a_genre"><h3 class="h_genre">Жанр не определен</h3></a></div><div class="div_genre"><a href="/genres_kompyutery-i-internet_2512" class="a_genre"><h3 class="h_genre">Компьютеры и Интернет</h3></a></div><div class="div_genre"><a href="/genres_lyubovnye-romany_472" class="a_genre"><h3 class="h_genre">Любовные романы</h3></a></div><div class="div_genre"><a href="/genres_nauchno-obrazovatelnaya_2022" class="a_genre"><h3 class="h_genre">Научно-образовательная</h3></a></div><div class="div_genre"><a href="/genres_poeziya_2342" class="a_genre"><h3 class="h_genre">Поэзия</h3></a></div><div class="div_genre"><a href="/genres_priklyucheniya_1162" class="a_genre"><h3 class="h_genre">Приключения</h3></a></div><div class="div_genre"><a href="/genres_proza_322" class="a_genre"><h3 class="h_genre">Проза</h3></a></div><div class="div_genre"><a href="/genres_prochee_56072" class="a_genre"><h3 class="h_genre">Прочее</h3></a></div><div class="div_genre"><a href="/genres_religiya-i-ezoterika_2662" class="a_genre"><h3 class="h_genre">Религия и эзотерика</h3></a></div><div class="div_genre"><a href="/genres_spravochnaya-literatura_3032" class="a_genre"><h3 class="h_genre">Справочная литература</h3></a></div><div class="div_genre"><a href="/genres_starinnaya-literatura_2172" class="a_genre"><h3 class="h_genre">Старинная литература</h3></a></div><div class="div_genre"><a href="/genres_tehnika_62302" class="a_genre"><h3 class="h_genre">Техника</h3></a></div><div class="div_genre"><a href="/genres_fantastika_2" class="a_genre"><h3 class="h_genre">Фантастика</h3></a></div><div class="div_genre"><a href="/genres_folklor_65502" class="a_genre"><h3 class="h_genre">Фольклор</h3></a></div><div class="div_genre"><a href="/genres_yumor_1502" class="a_genre"><h3 class="h_genre">Юмор</h3></a></div> 
+        </div>
+    </div>
+</div>
+
+ 
+
+<div class="main">
+
+    <div class="center_col">
+        <script src="https://yastatic.net/share2/share.js" async></script>
+        <div class="knigi_ramka" style="text-align: center;">
+            <script src="https://yastatic.net/share2/share.js"></script>
+            <div style="padding-bottom:10px;">Поделиться с друзьями:</div>
+            <div class="ya-share2" data-curtain data-url="https://read.xbook.life/books_tancuyuschaya-s-volkami_103731402" data-size="l" data-shape="round" data-services="telegram,whatsapp,viber,skype,vkontakte"></div>
+        </div>
+        <div class="knigi_ramka" itemscope itemtype="http://schema.org/Book">
+
+            <div class="div_knigi_name">
+                <h2 class="h_knigi_name" itemprop="name">Танцующая с волками</h2>            </div>
+            <div class="div_knigi_author" itemprop="author" itemscope itemtype="http://schema.org/Person"> 
+                <a href="/author_sestry-nolan_134377705" class="a_knigi_author" ><h2 class="a_knigi_author" itemprop="name">Сёстры Нолан</h2></a>            </div>  
+
+            <div class="knigi_ramka_inf2">
+
+                <div class="knigi_ramka_left2">
+
+                                        <div class="div_knigi_genre">
+                        <a itemprop="genre" href="/genres_lyubovnye-romany_472" class="a_knigi_genre"><h3 class="a_knigi_genre">Любовные романы</h3></a><span style="color: var(--fvc);">: </span><a itemprop="genre" href="/genres_lyubovno-fantasticheskie-romany_12762" class="a_knigi_genre"><h3 class="a_knigi_genre">любовно-фантастические романы</h3></a><span style="color: var(--fvc);">. </span>                    </div>
+                    <div class="div_knigi_year">
+                                            </div>
+
+                </div>
+                <div class="knigi_ramka_right2">
+                    <img itemprop="image" src="https://css.xbook.life/yy/oooo/vv/?uyt=103731402" alt="Танцующая с волками" class="knigi_img2">
+                    <div class="div_knigi_r"> 
+                        <span class="span_knigi_r_digit2" itemprop="aggregateRating">5.00</span>
+                        <span class="span_vote_block">  
+                            <a href="#" class="a_knigi_vote v_plus">+</a>
+                            <a href="#" class="a_knigi_vote v_minus">-</a>
+                        </span>
+                        <div class="span_knigi_r2"> <h4 class="span_knigi_r2">рейтинг книги</h4></div> 
+                    </div>
+                </div>
+            </div>
+            <div style="width: 100%;text-align:right;"><img style="" width="29" src="https://css.xbook.life/design/img/18_p.png"></div>
+        </div>
+        
+        <div class="block_read_text" style="overflow-wrap: anywhere; font-family: Georgia; font-size: 17px">
+                        <div class="div_read_settings">  
+                <div class="div_read_panel">
+                    <h5 class="h_font_header">Шрифт:</h5>
+                    <select class="select_font"><option class="option_font" value="Arial">Arial</option><option class="option_font" value="Century">Century</option><option class="option_font" value="Courier">Courier</option><option class="option_font" value="Georgia" selected>Georgia</option><option class="option_font" value="Tahoma">Tahoma</option><option class="option_font" value="Verdana">Verdana</option><option class="option_font" value="Times New Roman">Times New Roman</option></select>               
+                    <div class="div_read_panel2">
+                        <button class="button_plus_minus btnDec" title="Меньше">-</button>
+                        <button class="button_plus_minus btnInc" title="Больше">+</button>
+                        <button class="button_dark gray_bg" title="День - ночь"></button>
+                    </div>
+                </div>
+            </div>
+            <!--x_read0--><div class="div_img"><div><img class="img_in_r" src="https://css.xbook.life/yy/oooo/cv?uyt=103731402&g=0&h=jpg" /></div></div></image><div class="text_empty-line"></div> <p><span class="text_emphasis">Отдел монстрологических преступлений</span></p> <div class="text_empty-line"></div> <div class="div_img"><div><img class="img_in_r" src="https://css.xbook.life/yy/oooo/cv?uyt=103731402&g=1&h=jpg" /></div></div></image><div class="text_empty-line"></div>  <p>В оформлении макета использованы материалы по лицензии © shutterstock.com</p> <div class="text_title"><p>Пролог</p> </div><div class="div_img"><div><img class="img_in_r" src="https://css.xbook.life/yy/oooo/cv?uyt=103731402&g=2&h=jpg" /></div></div></image><p>В лесу стояла звенящая <div caramel-id="01jeasrzvf3s40e1ze37m057q8"></div>
+    
+<div style="display: flex; justify-content: space-around;">
+<div caramel-id="01jfvr54bddpvantwcybcqw6b3"></div>
+<div caramel-id="01jfvqxcpxc9tyn91x5hkpq9c1"></div>
+<div caramel-id="01jeash362n3vj0apfdrcd1sfs"></div>
+</div>
+тишина. Казалось, даже ветер испуганно затих, не решаясь пошевелить листья, а птиц и вовсе не было слышно. Лишь солнечные блики равнодушно скользили по развалинам, что ещё недавно являлись северным форпостом охотников. В неприступных когда-то стенах зияли пробитые тяжёлыми орудиями дыры. Кое-где камень осыпался мелкой крошкой. Здания бывших казарм и хозблоков испещрили отверстия от пуль, гильзы которых покрыли землю серебряным ковром. Будку дежурного на контрольно-пропускном пункте словно вырвали с корнем, оставив лишь обломки фундамента и арматуры. Только чудом уцелевшие главные ворота охотничьей базы горькой насмешкой возвышались над руинами.</p> <p>Внезапно гнетущее безмолвие было нарушено. Низкий гул, зародившийся в самой чаще, постепенно перешёл в грозный рокот. Остатки стёкол в окнах завибрировали, когда на поляну выехали бронетранспортёры. Одна из машин остановилась у самых ворот, и первым из неё выбрался капитан Маркус Джефферсон. Он хмуро оглядел территорию форпоста, лужи крови и уничтоженные здания, но лицо его, покрытое недельной щетиной, осталось непроницаемым, даже когда мимо на носилках пронесли тело, запечатанное в непрозрачный мешок.</p> <p>Чуть поодаль выросла уже довольно большая куча дров и хвороста, чтобы стать погребальным костром для погибших ликантов. Ведь оборотней не хоронят в земле, как людей, – слишком много чести.</p> <p>От группы охотников, разбиравшей завалы у здания штаба, отделился молодой капрал и быстрым шагом приблизился к капитану. Козырнув, он хотел было доложить обстановку, но Маркус вдруг перебил его:</p> <p>– Выжившие есть?</p> <p>– Никак нет, сэр, – бодро ответил парень, хотя бегающий взгляд с потрохами выдавал волнение юнца, который не решался сообщить командиру плохие новости. – В этой части леса стена полностью разрушена, личный состав уничтожен…</p> <p>Порыв ветра принёс терпкий аромат горящих поленьев, и капитан обернулся, наблюдая за тем, как охотники стаскивают <!--x_read2-->огромные, покрытые мехом туши оборотней к плацу, чтобы предать их огню. Встретив смерть в зверином обличье, ликанты уже не могли принять человеческий вид, и для многих желторотых новичков отряда подобная погребальная церемония оказалась непростым испытанием. Судя по звукам, кого-то всё же вывернуло наизнанку, но Маркус не спешил обвинять незадачливого охотника в трусости или слабости. Сегодня всем им пришлось внезапно повзрослеть.</p> <p>– Война окончена, – пробормотал он, глядя, как языки пламени танцуют на обугливающихся шкурах врагов.</p> <p>Капрал осёкся, внимая начальству, но Маркус будто и не видел стоявшего рядом подчинённого.</p> <p>В карих глазах, покрасневших от напряжения и суток без сна, отражалась вся боль произошедшего. Никто и не догадывался, чем обернётся эта осенняя ночь. Сообщение о том, что ликанты прорвались за стену с севера, застало врасплох. Времени разбираться, кто из постовых допустил оплошность, не было. Единственное, о чём нужно было думать, – как не допустить проникновения оборотней на территорию города. Все силы охотников были брошены наперерез, чтобы сойтись в жестокой схватке с противником у самых окраин. Рота Маркуса прибыла на поле боя одной из первых и взяла основной удар на себя. А дальше началась самая настоящая бойня.</p> <p>Капитан готов был поклясться, что ни одно из предыдущих поколений охотников не участвовало в подобных сражениях. Небо мешалось с землёй в черноте ночи и всполохах орудий. Рычание волков и крики людей слились в единый нечеловеческий гул, который, кажется, до <div caramel-id="01jeasrzvf3s40e1ze37m057q8"></div>
+    
+<div caramel-id="01jeat4wj7e42bp1pen5g5n5g2"></div>
+сих пор стоял в ушах. Реки крови заливали всё вокруг так, что невозможно было понять, чья именно пропитала униформу.</p> <p>Перелом многовекового противостояния наступил так же внезапно, как и решающая битва. Маркус лично видел, как рухнула на землю огромная туша Альфы, сражённого в лоб серебряной пулей, а многие его соратники бежали, позорно поджав хвосты. Но до последнего не мог осознать, что они победили.</p> <p>Ветер усилился и зашуршал ветвями деревьев, заставив капитана очнуться от наваждения.</p> <p>– Прочешите ближайшие окрестности, – приказал он, задумчиво поглядывая в сторону леса.</p> <p>Взгляд задержался на кустах дикой жимолости, и Маркус неосознанно сделал шаг вперёд, когда со спины его кто-то окликнул.</p> <p>– Капитан Джефферсон, сэр, там… – приблизившийся охотник задыхался от бега. – Вы должны это видеть. Там…</p> <p>Маркус в сопровождении рядовых вошёл в штаб, переступая через куски бетона, и замер на пороге кабинета командира базы, дверь в который, по словам расчищавших завалы, была забаррикадирована. Из-под стола на вошедших мужчин испуганно глядели огромные серые глаза. Капитан нахмурился, заметив поразительное сходство двухлетней девочки с лейтенантом Ричардом Бейли: тот же высокий лоб и тонкий нос, не по годам острый взгляд из-под бровей.</p> <p>Глубоко вздохнув, он опустился на корточки перед ребёнком и протянул руки, чтобы вытащить её, но малышка дёрнулась назад и сморщила личико, готовая тут же разреветься.</p> <p>В коридоре послышался шум, и Маркус выпрямился, когда в помещение вбежал ещё один охотник.</p> <p>– Сэр, мы нашли его в казармах.</p> <p>Парень скользнул взглядом по девочке и отошёл в сторону, пропуская вперёд светловолосого мальчонку примерно одного возраста с дочерью Бейли.</p> <p>– На нём было это, – рядовой протянул цепочку, на которой болтались два стальных жетона с данными.</p> <p>– Джон Свенсон, – прочитал Маркус вслух.</p> <p>Он пытался вспомнить, упоминал ли хоть раз уорент-офицер северного форпоста о пополнении в семействе и почему их проживание на территории происходило без ведома командира.</p> <p>– Откуда на базе столько детей? – глухо возмутился капитан, массируя шею. – Развели бардак!</p> <p>Виски сдавливала пульсирующая боль, лишая возможности думать здраво. Покосившись на пацанёнка и встретив его хмурый взгляд исподлобья, Маркус процедил сквозь зубы:</p> <p>– Везём их к нам. Сейчас разбираться некогда.</p> <div class="text_subtitle">* * *</div><p>Джип плавно <!--x_read5-->скользил по лесной дороге, окружённой вечнозелёными секвойями, и убаюкивал размеренным шелестом шин. Маркус прижался лбом к стеклу, с наслаждением ощущая, как его прохлада сдерживает мигрень, но в мыслях всё равно мелькали картинки событий, произошедших за последние сутки. Злость и отчаяние скребли по грудной клетке, сбивая размеренное дыхание на рваные, короткие вдохи. Потерять несколько сотен людей, подвергнуть опасности мирное население, едва сдержать атаку, какой-то невероятной удачей уничтожив врага, и на десерт подцепить себе дополнительную проблему в виде двух детей. Неизвестно, сколько приютов придётся обзвонить, чтобы найти для них места. Тем более паника в городе утихнет не так скоро, а будет, напротив, набирать обороты, питаясь слухами и недомолвками.</p> <p>Внедорожник вдруг сильно тряхнуло на кочке. Маркус почувствовал, как кто-то вцепился в рукав его куртки. Повернув голову, он застыл, глядя на прижавшуюся к нему девочку. Малышка уткнулась щекой в руку мужчины, словно пыталась спрятаться под ней. Капитан перевёл взгляд на мальчишку. Тот, в отличие от подруги по несчастью, забился в угол и затравленно смотрел на сидящих в машине взрослых.</p> <p>«Как волчонок», – промелькнуло в голове Маркуса, и он усмехнулся от этой нелепой мысли. О тяжёлом характере старшего уорент-офицера Свенсона ходили легенды, немудрено, что ребёнок с детства видел во всём опасность.</p> <div caramel-id="01jeasrzvf3s40e1ze37m057q8"></div>
+
+<div style="display: flex; justify-content: space-around;">
+<div caramel-id="01jfvr54bddpvantwcybcqw6b3"></div>
+<div caramel-id="01jfvqxcpxc9tyn91x5hkpq9c1"></div>
+<div caramel-id="01jeash362n3vj0apfdrcd1sfs"></div>
+</div>
+<script>    $('.a_read_note').hover(function () {
+        var dd = $(this).attr('id');
+        $("#book_"+dd).children("div").remove();
+        var inf = $("#book_"+dd).html();
+        
+        $('<div class="div_read_note"></div>').html(inf).appendTo('body').fadeIn('fast');
+   
+    }, function () {
+        $('.div_read_note').remove();
+    }).mousemove(function (e) {
+        var xb = $('.div_read_note').outerWidth(true);
+        var xscr = $(window).width();
+        var yscr = $(window).height();
+        if ((xscr - e.pageX) < xb) {
+            var mousex = e.pageX - xb - 10;
+        } else {
+            var mousex = e.pageX + 20;
+        }
+        if (mousex < 0)
+            mousex = 5;
+        if (mousex + xb > xscr)
+            mousex = xscr - xb - 5;
+        var mousey = e.pageY + 10;
+        $('.div_read_note').css({top: mousey, left: mousex})
+    });
+</script>
+
+
+        </div>
+        
+<div class="div_paging_block">
+    <a class="a_paging_active" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=1">1</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=2">2</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=3">3</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=4">4</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=5">5</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=6">6</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=7">7</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=8">8</a><span class="dot_dot">-</span><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=125">125</a>			
+</div> 
+
+        <script>
+            $(".select_font").change(function() {
+
+                document.cookie = "gh ngnv=" + this.value + "; path=/; expires=Tue, 19 Jan 2038 03:14:07 GMT";
+                $('.block_read_text').css('font-family', this.value);
+            });
+            $(".btnInc").click(function() {
+                $('.block_read_text').css('font-size', '+=1');
+                setCookieFontSize();
+            });
+            $(".btnDec").click(function() {
+                $('.block_read_text').css('font-size', '-=1');
+                setCookieFontSize();
+            });
+
+            function setCookieFontSize()
+            {
+                document.cookie = "gfhhvc=" + $(".block_read_text").css("font-size") + "; path=/; expires=Tue, 19 Jan 2038 03:14:07 GMT";
+            }
+            var is_dark = 0;
+            $('.button_dark').on('click', function(event) {
+                event.preventDefault();
+                set_dark();
+            });
+            function set_dark()
+            {
+                $('.footer').toggleClass('gray_bg');
+
+                $('.knigi_ramka').toggleClass('dark_bg');
+
+                $('body').toggleClass('dark_bg');
+
+                $('.head').toggleClass('dark_bg');
+                $('div').toggleClass('white_color');
+
+                $('.main').toggleClass('dark_bg');
+                $('.knigi_seriya').toggleClass('dark_color');
+                $('.knigi_genre').toggleClass('dark_color');
+                $('.knigi_r').toggleClass('dark_color');
+
+                $('.a_menu').toggleClass('white_color');
+                $('.search_type').toggleClass('white_color');
+
+                $('.a_paging_active').toggleClass('a_paging_active_dark');
+
+                $('.font_header').toggleClass('white_color');
+
+                if (0 == is_dark) {
+                    is_dark = 1;
+                } else {
+                    is_dark = 0;
+                }
+                document.cookie = "hffg=" + is_dark + "; path=/; expires=Tue, 19 Jan 2038 03:14:07 GMT";
+            }
+
+
+
+
+        </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="knigi_ramka">
+
+        <div class="div_block_knigi_similar_header">
+            <h4 class="h_knigi_similar_series">Книги из серии: </h4>
+            <h4 class="h_knigi_similar_series">Без серии</h4>        </div>
+
+
+
+
+
+        <div class="div_block_knigi_similar">
+            <div class="div_str_knigi_similar_name"><div class="div_str_knigi_similar_left"><h5 class="h_knigi_similar_knigi_name"><a href="/books_tancuyuschaya-s-volkami_103731402" class="a_knigi_similar_knigi_name">Танцующая с волками</a></h5></div><div class="div_str_knigi_r_right"><span class="span_knigi_similar_knigi_r_digit"> [5.0</span>&nbsp;<span class="span_knigi_similar_knigi_r">рейтинг книги</span><span class="span_knigi_similar_knigi_r_digit">]</span></div></div>        </div>
+
+
+    </div>
+    
+        <div class="knigi_ramka">
+            <div class="comment_header">Комментарии:</div>
+            <div class="comments"></div>
+                    </div>
+
+        <script>
+            $("#form").on("submit", function() {
+                $.ajax({
+                    url: '/mes/add',
+                    method: 'post',
+                    dataType: 'html',
+                    data: $(this).serialize(),
+                    success: function(data) {
+                        load_comments();
+                    }
+                });
+                return false;
+            });
+            function load_comments()
+            {
+                $.ajax({
+                    url: '/mes/load?type=0&id=103731402&module=1',
+                    method: 'get',
+                    dataType: 'html',
+                    success: function(data) {
+                        //alert(data);
+                        $('.comments').html(data);
+                    }
+
+                });
+                return true;
+            }
+            load_comments();
+        </script>
+
+
+
+
+
+    </div>
+
+    <div class="right_col">        
+        <!--right_col-->
+    </div>
+
+
+</div> <div class="footer"> <div class="footer_main"> <div class="footer_counter"> © 2024 xBook<br><br> Почта для связи: <a href="mailto:xbook.shoplift810@passfwd.com">xbook.shoplift810@passfwd.com</a> </div> </div> </div> <style> @media (max-width: 600px) { .wnd { text-align: left; height:max-content; width:100%; position:fixed; top:0; bottom:0; z-index:100; left:0; right:0; margin:auto; padding:0px; -webkit-box-shadow:4.5px 2.6px 12px rgba(0,0,0,.12); box-shadow:4.5px 2.6px 12px rgba(0,0,0,.12); background:#fff; color:#000; font-size:16px } .b_close { margin: 10px 10px 5px 220px; -webkit-border-radius: 10px; border-radius: 10px; color: #ffffff; background: #A54FBE; width: 90px; padding: 9px; font-size: 16px; display: inline-block; text-align: center; } } @media (min-width: 601px) { .wnd { display:block; text-align: left; height:max-content; width:455px; position:fixed; top:0; bottom:0; z-index:100; left:0; right:0; margin:auto; padding:10px; -webkit-box-shadow:4.5px 2.6px 12px rgba(0,0,0,.12); box-shadow:4.5px 2.6px 12px rgba(0,0,0,.12); background:#fff; color:#000; font-size:16px } .b_close { margin: 10px 10px 5px 330px; -webkit-border-radius: 10px; border-radius: 10px; color: #ffffff; background: #A54FBE; width: 90px; padding: 9px; font-size: 16px; display: inline-block; text-align: center; } } .b_close:hover { color: #ffffff; } .msg_error_red { color: red; } .a_wnd { text-decoration: underline; } .p_tooltip { margin:10px; } </style> </body> <script> $('.h3_genre').click(function(event) { $('.div_genre_list').toggleClass('display_none'); }); </script> <!--0.091170 sec.--> </html> 
