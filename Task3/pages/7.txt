@@ -1,0 +1,167 @@
+<!DOCTYPE html> <html lang="ru"> <head> <script>
+  const caramelJS = document.createElement('script'); 
+  caramelJS.src = "https://ads.digitalcaramel.com/caramel.js?ts="+new Date().getTime();
+  caramelJS.async = true;
+  document.head.appendChild(caramelJS);
+</script> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <title>Танцующая с волками, Сёстры Нолан - чтение онлайн</title> <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> <meta charset="utf-8"> <meta name="description" content="Танцующая с волками, Автор - Сёстры Нолан, , Жанр - Любовно-фантастические романы, Любовные романы. Чтение онлайн, доступна полная версия книги."> <meta name="keywords" content="Танцующая с волками, Сёстры Нолан - чтение онлайн"> <link rel="canonical" href="https://read.xbook.life/books_tancuyuschaya-s-volkami_103731402"/> <link rel="icon" href="https://css.xbook.life/design/img/favicon.svg"> <meta property="og:url" content="https://read.xbook.life/books_tancuyuschaya-s-volkami_103731402" /> <meta property="og:type" content="website" /> <meta property="og:image" content="https://css.xbook.life/yy/oooo/vv/?uyt=103731402" /> <meta property="og:title" content="Танцующая с волками, Сёстры Нолан - чтение онлайн" /> <meta property="og:site_name" content="xBook - электронная библиотека" /> <meta property="og:description" content="Танцующая с волками, Автор - Сёстры Нолан, , Жанр - Любовно-фантастические романы, Любовные романы. Чтение онлайн, доступна полная версия книги." /> <meta name="language" content="ru"> <meta name="theme-color" content="#000"> <link rel="apple-touch-icon" sizes="180x180" href="https://css.xbook.life/design/img/emblem.png"> <script async="" src="https://css.xbook.life/design/jscr/tag.js"></script> <script src="https://css.xbook.life/design/jscr/jquery-3.5.1.min.js"></script> <link rel="stylesheet" href="https://css.xbook.life/design/c_s_s/s.css?o=8.407"> <script src="https://css.xbook.life/design/jscr/common.js"></script>         <script type="text/javascript">
+            (function(m, e, t, r, i, k, a) {
+                m[i] = m[i] || function() {
+                    (m[i].a = m[i].a || []).push(arguments)
+                };
+                m[i].l = 1 * new Date();
+                k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+            })(window, document, 'script', '//mc.yandex.ru/metrika/tag.js', 'ym');
+
+            ym(98586866, 'init', {accurateTrackBounce: true, trackLinks: true, clickmap: true, params: {__ym: {isFromApi: 'yesIsFromApi'}}});
+        </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/98586866" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    </head> <body class="main_body"> <div caramel-id="01jkwfknqzz1rsc0ycmp1pakd7"></div>
+<div caramel-id="01k040nyfjs3mgsgewq0f3pvx1"></div><!--fullscreen1--> <header class="header"> <div class="head"> <div class="head__wrap"> <div class="div_menu"> <a href="/" class="a_menu">на главную</a> </div> <div class="div_main_title"> <h1 class="h_main_title">Чтение онлайн</h1> </div> </div> </div> </header> <div class="head"> 
+<div class="head__form">
+    <form action="/" class="form_search" name="yu">
+        <div class="div_search">
+            <input type="text" name="ui" class="input_search" placeholder="Название книги, автор" value="">
+        </div>
+        <div class="div_search_btns switcher">
+            <div class="switcher__box">
+                <h3 class="search_type knigi_type search_type_active">КНИГИ</h3>
+                <div class="switcher__wrp">
+                    <img src="https://css.xbook.life/design/img/switch.png" alt="switch" class="switcher__image">
+                </div>
+                <h3 class="search_type avtor_type ">АВТОРЫ</h3>
+            </div>
+            <button class="btn">найти</button>
+        </div>
+    </form>
+</div>
+<script>
+    $('.knigi_type').click(function(event) {
+        $('.knigi_type').addClass('search_type_active');
+        $('.avtor_type').removeClass('search_type_active');
+        document.forms.yu.action = "/";
+
+        if (document.forms.yu.ui.value == 'устинова' | '' == document.forms.yu.ui.value) {
+            document.forms.yu.ui.value = 'волк';
+        }
+    });
+    $('.avtor_type').click(function(event) {
+        $('.avtor_type').addClass('search_type_active');
+        $('.knigi_type').removeClass('search_type_active');
+        document.forms.yu.action = "/authors";
+
+        if (document.forms.yu.ui.value == 'волк' | '' == document.forms.yu.ui.value) {
+            document.forms.yu.ui.value = 'устинова';
+        }
+    });
+</script> </div> <div class="head genre_block">
+    <div class="div_main_genry_block">
+        <div class="div_genre_header">
+                        <h3 class="h3_genre h3_genre--right hider is-active hiderBtn"><i class="hider__icon"></i>ЖАНРЫ</h3>
+        </div>
+        <div class="div_genre_list">
+            <div class="div_genre"><a href="/genres_delovaya-literatura_3352" class="a_genre"><h3 class="h_genre">Деловая литература</h3></a></div><div class="div_genre"><a href="/genres_detektivy_642" class="a_genre"><h3 class="h_genre">Детективы</h3></a></div><div class="div_genre"><a href="/genres_detskie_3202" class="a_genre"><h3 class="h_genre">Детские</h3></a></div><div class="div_genre"><a href="/genres_dokumentalnaya-literatura_1652" class="a_genre"><h3 class="h_genre">Документальная литература</h3></a></div><div class="div_genre"><a href="/genres_dom-i-semya_1332" class="a_genre"><h3 class="h_genre">Дом и Семья</h3></a></div><div class="div_genre"><a href="/genres_dramaturgiya_63632" class="a_genre"><h3 class="h_genre">Драматургия</h3></a></div><div class="div_genre"><a href="/genres_zhanr-ne-opredelen_57252" class="a_genre"><h3 class="h_genre">Жанр не определен</h3></a></div><div class="div_genre"><a href="/genres_kompyutery-i-internet_2512" class="a_genre"><h3 class="h_genre">Компьютеры и Интернет</h3></a></div><div class="div_genre"><a href="/genres_lyubovnye-romany_472" class="a_genre"><h3 class="h_genre">Любовные романы</h3></a></div><div class="div_genre"><a href="/genres_nauchno-obrazovatelnaya_2022" class="a_genre"><h3 class="h_genre">Научно-образовательная</h3></a></div><div class="div_genre"><a href="/genres_poeziya_2342" class="a_genre"><h3 class="h_genre">Поэзия</h3></a></div><div class="div_genre"><a href="/genres_priklyucheniya_1162" class="a_genre"><h3 class="h_genre">Приключения</h3></a></div><div class="div_genre"><a href="/genres_proza_322" class="a_genre"><h3 class="h_genre">Проза</h3></a></div><div class="div_genre"><a href="/genres_prochee_56072" class="a_genre"><h3 class="h_genre">Прочее</h3></a></div><div class="div_genre"><a href="/genres_religiya-i-ezoterika_2662" class="a_genre"><h3 class="h_genre">Религия и эзотерика</h3></a></div><div class="div_genre"><a href="/genres_spravochnaya-literatura_3032" class="a_genre"><h3 class="h_genre">Справочная литература</h3></a></div><div class="div_genre"><a href="/genres_starinnaya-literatura_2172" class="a_genre"><h3 class="h_genre">Старинная литература</h3></a></div><div class="div_genre"><a href="/genres_tehnika_62302" class="a_genre"><h3 class="h_genre">Техника</h3></a></div><div class="div_genre"><a href="/genres_fantastika_2" class="a_genre"><h3 class="h_genre">Фантастика</h3></a></div><div class="div_genre"><a href="/genres_folklor_65502" class="a_genre"><h3 class="h_genre">Фольклор</h3></a></div><div class="div_genre"><a href="/genres_yumor_1502" class="a_genre"><h3 class="h_genre">Юмор</h3></a></div> 
+        </div>
+    </div>
+</div>
+
+ <script> $('.div_genre_list').addClass('display_none'); </script> <div class="main"> <div class="center_col"> <div class="knigi_ramka"> <div class="block_series_view"> <div class="div_s_view_str"> <div class="div_s_view_name"> <h5 class="h_s_view_name">Танцующая с волками</h5> </div> <div class="div_read_view_r"> <a href="/books_tancuyuschaya-s-volkami_103731402" class="a_back">на обложку</a> </div> </div> <div class="div_s_view_author"> <a href="/author_134377705" class="a_s_view_author" ><h2 class="a_s_view_author">Сёстры Нолан</h2></a> </div> </div> </div> <div class="block_read_text" style="overflow-wrap: anywhere; font-family: Georgia; font-size: 17px"> <div class="div_read_settings"> <div class="div_read_panel"> <h5 class="h_font_header">Шрифт:</h5> <select class="select_font"><option class="option_font" value="Arial">Arial</option><option class="option_font" value="Century">Century</option><option class="option_font" value="Courier">Courier</option><option class="option_font" value="Georgia" selected>Georgia</option><option class="option_font" value="Tahoma">Tahoma</option><option class="option_font" value="Verdana">Verdana</option><option class="option_font" value="Times New Roman">Times New Roman</option></select> <div class="div_read_panel2"> <button class="button_plus_minus btnDec" title="Меньше">-</button> <button class="button_plus_minus btnInc" title="Больше">+</button> <button class="button_dark gray_bg" title="День - ночь"></button> </div> </div> </div> <!--x_read0--><p>– Не-е… На-а… Ви-и… Жу-у… – прохрипела она, содрогаясь от оргазма на каждом толчке.</p> <p>Рой уткнулся в затылок Оливии, тяжело дыша. От запаха её волос кружилась голова, но спустя пару секунд он уже отстранился и быстро привёл себя в порядок.</p> <p>– Это взаимно, Бейли, – хмыкнул он, накидывая куртку. Мельком взглянув в зеркало, Локей вышел из уборной, даже не обернувшись.</p> <p>Дрожащими руками Оливия поправила одежду. Опершись на раковину, она медленно сползла на пол и уткнулась лицом в колени. Мерзкое чувство жалости к себе сдавило горло. В который раз она задвинула гордость куда подальше, поддавшись нелепому порыву, словно какая-то наркоманка.</p> <p>Рой подкалывал её всегда, сколько Оливия себя помнила. Кажется, вся гильдия <div caramel-id="01jeasrzvf3s40e1ze37m057q8"></div>
+    
+<div style="display: flex; justify-content: space-around;">
+<div caramel-id="01jfvr54bddpvantwcybcqw6b3"></div>
+<div caramel-id="01jfvqxcpxc9tyn91x5hkpq9c1"></div>
+<div caramel-id="01jeash362n3vj0apfdrcd1sfs"></div>
+</div>
+была в курсе непростых отношений сынка подполковника Локея с сиротами, подобранными майором Джефферсоном. Они постоянно были на ножах, и даже смерть Ульриха не смогла этого изменить. Только никто не догадывался, во что перерос этот конфликт где-то полгода назад. Оливия старалась не вспоминать, как всё началось. И всё время упускала момент, когда во время очередной ссоры взаимные проклятия и угрозы превращались в жаркие поцелуи. Но самое ужасное – каждое их столкновение теперь оканчивалось одинаково. Оливия словно отключалась, сгорая в его руках. Но стоило прийти в себя, как ненависть и чувство стыда накрывали с головой. Она готова была молиться всем известным и забытым богам, лишь бы никто не узнал, как низко она пала. Эти стычки с Роем давно пора было прекратить, пока в ней ещё оставались крупицы самоуважения. Однако стоило ему открыть свой поганый рот в её сторону, Оливия вспыхивала, как спичка.</p> <p>Из-за двери зазвучала бодрая музыка, а значит, в основном зале уже началась дискотека, проводившаяся в баре по нечётным дням. Анна любила танцевать и каждый раз тащила ее с собой на танцпол, но сейчас Оливия чувствовала себя слишком разбитой для веселья. Хотелось поскорее добраться до базы и принять душ, чтобы смыть с себя противное ощущение личного позора.</p> <p>Поднявшись на ноги, она умылась ледяной водой, но это мало помогло. Ей казалось, что лицо всё ещё горит от стыда. Убедившись, что выглядит не слишком потрёпанно и подозрительно, Оливия выскользнула за дверь. Стараясь не привлекать к себе внимания, она чуть опустила голову и двинулась к выходу из бара, но на пути, как назло, возник столик первого отряда.</p> <p>Рой как ни в чём не бывало веселился в компании товарищей и запотевших кружек пива. Оливия быстро обошла ненавистное сборище, но его голос, прозвучавший слишком громко, заставил её вздрогнуть.</p> <p>– Да, пришлось вчера задержаться в городе, – рассказывал он, наслаждаясь вниманием окружающих. – Возникла <!--x_read2-->одна непредвиденная проблема. Но задница у неё была что надо.</p> <p>Хохот охотников вывел девушку из ступора. Закатив глаза, она пробормотала: «Вот же сволочь» и направилась в сторону танцпола, стараясь заглушить неприятное ноющее чувство.</p> <p>Ловко лавируя между дёргающихся в такт музыке людей, Оливия почти добралась до заветных дверей на улицу, когда кто-то ухватил её за руку и по-собственнически притянул к себе.</p> <p>– Потанцуем, крошка? – услышала она над ухом незнакомый голос, но характерное обилие приторного парфюма и пробивающийся сквозь него терпкий запах золы выдавали его обладателя с потрохами.</p> <p>– Убери руки, ликант, – прорычала она.</p> <p>Оливия смело вздёрнула подбородок и встретилась взглядом с высоким мужчиной, чьи длинные вьющиеся волосы были забраны в низкий хвост, а пёстрая шёлковая рубашка, расстёгнутая на пару пуговиц, обнажала покрытую чёрной растительностью грудь.</p> <p>– О, так ты из гильдии? – На его лице лишь на секунду промелькнуло удивление, но он тут же взял себя в руки, расплываясь в хищной улыбке. – Таких девчонок я ещё не пробовал.</p> <p>– И не попробуешь, – прошипела Оливия, морщась от тошнотворного аромата, заполнившего лёгкие. – Руки! – громко повторила она и вырвалась из хватки.</p> <p>Заметив странную возню, Рой прервался на полуслове и перевёл взгляд в сторону танцпола. Рыжие брови взметнулись вверх и тут же сурово сдвинулись к переносице. Похоже, эта тупица Бейли снова нашла проблемы в лице навязчивого ухажёра. Охотник с насмешливым интересом наблюдал, как меняется лицо <div caramel-id="01jeasrzvf3s40e1ze37m057q8"></div>
+    
+<div caramel-id="01jeat4wj7e42bp1pen5g5n5g2"></div>
+девушки с каждым словом высокого незнакомца. Рой считал про себя до десяти, зная, как короток разгон Оливии от милой девочки до злобной стервы. Но не успел счёт дойти до пяти, когда она с силой оттолкнула от себя парня и вышла из бара. Парень тихонько хмыкнул, чувствуя лёгкое разочарование от того, что шоу отменилось, и потянулся за кружкой, намереваясь вернуться к беседе. Однако шестое чувство заставило его вновь вскинуть голову. Отвергнутый тип несколько секунд смотрел в сторону двери, а после стремительно двинулся следом за девушкой.</p> <p>Оказавшись на улице, Оливия остановилась на узкой площадке у входа, вдыхая прохладный свежий воздух, который после душного, пропахшего потом, алкоголем и духами помещения смог усмирить накатившую тошноту. Глубоко дыша, она облокотилась на перила лестницы и прикрыла глаза. Стоило бы предупредить Анну, что она уезжает на базу, но возвращаться обратно не было ни сил, ни желания. Дверь за спиной гулко хлопнула, на пару секунд заполнив улицу музыкой и пьяным шумом, но затем снова наступила тишина.</p> <p>– Меня ждёшь? – Чужая ладонь по-хозяйски расположилась на её ягодице.</p> <p>Оливия резко развернулась. Перехватив запястье, она выкрутила руку наглеца в сторону и тут же отпустила. Ликант тихо зарычал, потирая кожу, и оскалился, буравя её пожелтевшими глазами. Оливия сделала шаг назад, но упёрлась спиной в металлическую перекладину. В поисках оружия пальцы нервно скользнули под куртку, пока мозг загружал запоздалую информацию о том, что пистолет остался в бардачке мотоцикла. Но заканчивать вечер один на один с разъярённым оборотнем в её планы точно не входило.</p> <p>– Что, страшно без серебра? – хмыкнул он, заметив её судорожные движения. – Или попытаешься убить меня взглядом?</p> <p>– Ты на нашей земле. – Желая скрыть волнение в голосе, она сжала кулаки, готовая отбиваться.</p> <p>– Вот именно, на вашей, – его пальцы скользнули вверх, больно ухватив Оливию за подбородок, – и нахожусь тут совершенно законно.</p> <p>На это заявление ответить было нечего. Ведь заключённый с ликантами договор соблюдался всеми членами гильдии беспрекословно, включая и самый спорный пункт о том, что элита оборотней с помощью спецпропусков могла беспрепятственно передвигаться по городу для пополнения провизии стаи. Радовало лишь одно – каждый такой визит за стену был строго регламентирован и не мог совершаться более трёх раз в месяц.</p> <p>Дверь бара снова хлопнула, на пару мгновений выпустив наружу навязчивый <!--x_read5-->припев популярной песни.</p> <p>– Чей пёс сбежал из вольера?</p> <p>В этот момент Оливия готова была поклясться, что ещё никогда не была так рада услышать голос.</p> <p>– Бейли, уходи, – не сводя глаз с ликанта, процедил Рой и медленно подошёл ближе. – Что, щеночек, заблудился?</p> <p>– Какой у тебя дерзкий друг, – улыбнулся оборотень и резко выбросил руку в сторону, блокируя выход для Оливии. – Где же ваши манеры?</p> <p>– Радуйся, что не получил пулю в голову на входе. – Рой по-прежнему говорил насмешливым тоном, но взгляд прожигал насквозь. – Девчонку отпусти.</p> <p>Звук снятого предохранителя прозвучал слишком тихо для охотницы, но довольно отчетливо для слуха оборотня.</p> <p>– У нас договор, – дрогнувшим голосом сказал тот, отходя от девушки.</p> <p>– Не я его заключал, – пожал плечами Рой и прикрикнул на Оливию так, что она дёрнулась. – Проваливай!</p><div class="end_section"></div><div class="text_title"><p>Глава 3</p> </div><div class="div_img"><div><img class="img_in_r" src="https://css.xbook.life/yy/oooo/cv?uyt=103731402&g=5&h=jpg" /></div></div></image><p><span class="text_emphasis">– Эй, Оливка, что это у тебя на плече?</span></p> <p><span class="text_emphasis">Девочка закатила глаза, услышав ехидный голос за спиной, но всё равно повернула голову. Небольшой зелёный комочек, покрытый слизью и мерзкими пупырками, надул горловой мешок в качестве приветствия.</span></p> <div caramel-id="01jeasrzvf3s40e1ze37m057q8"></div>
+
+<div style="display: flex; justify-content: space-around;">
+<div caramel-id="01jfvr54bddpvantwcybcqw6b3"></div>
+<div caramel-id="01jfvqxcpxc9tyn91x5hkpq9c1"></div>
+<div caramel-id="01jeash362n3vj0apfdrcd1sfs"></div>
+</div>
+<!--fsb-read2--> </div> <div class="div_paging_block"> <a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=1">1</a><span class="dot_dot">-</span><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=3">3</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=4">4</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=5">5</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=6">6</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=7">7</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=8">8</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=9">9</a><a class="a_paging_active" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=10">10</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=11">11</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=12">12</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=13">13</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=14">14</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=15">15</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=16">16</a><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=17">17</a><span class="dot_dot">-</span><a class="a_paging" href="/books_tancuyuschaya-s-volkami_103731402?dfhj=125">125</a> </div> <script src="https://yastatic.net/share2/share.js" async></script> <div class="knigi_ramka" style="text-align: center;"> <script src="https://yastatic.net/share2/share.js"></script> <div style="padding-bottom:10px;">Поделиться с друзьями:</div> <div class="ya-share2" data-curtain data-url="https://read.xbook.life/books_tancuyuschaya-s-volkami_103731402" data-size="l" data-shape="round" data-services="telegram,whatsapp,viber,skype,vkontakte"></div> </div> </div> <div class="right_col right_col_disp_none"> <!--right_col--> </div> </div> <script>    
+    $('.a_read_note').hover(function () {
+        var dd = $(this).attr('id');
+        $("#book_"+dd).children("div").remove();
+        var inf = $("#book_"+dd).html();
+        
+        $('<div class="div_read_note"></div>').html(inf).appendTo('body').fadeIn('fast');
+   
+    }, function () {
+        $('.div_read_note').remove();
+    }).mousemove(function (e) {
+        var xb = $('.div_read_note').outerWidth(true);
+        var xscr = $(window).width();
+        var yscr = $(window).height();
+        if ((xscr - e.pageX) < xb) {
+            var mousex = e.pageX - xb - 10;
+        } else {
+            var mousex = e.pageX + 20;
+        }
+        if (mousex < 0)
+            mousex = 5;
+        if (mousex + xb > xscr)
+            mousex = xscr - xb - 5;
+        var mousey = e.pageY + 10;
+        $('.div_read_note').css({top: mousey, left: mousex})
+    });
+    
+                $(".select_font").change(function () {
+                
+                document.cookie = "gh ngnv=" + this.value + "; path=/; expires=Tue, 19 Jan 2038 03:14:07 GMT";
+                $('.block_read_text').css('font-family', this.value);
+            });
+            $(".btnInc").click(function () {
+                $('.block_read_text').css('font-size', '+=1');
+                setCookieFontSize();
+            });
+            $(".btnDec").click(function () {
+                $('.block_read_text').css('font-size', '-=1');
+                setCookieFontSize();
+            });
+
+            function setCookieFontSize()
+            {
+                document.cookie = "gfhhvc=" + $(".block_read_text").css("font-size") + "; path=/; expires=Tue, 19 Jan 2038 03:14:07 GMT";
+            }
+            var is_dark = 0;
+            $('.button_dark').on('click', function (event) {
+                event.preventDefault();
+                set_dark();
+            });
+            function set_dark()
+            {
+                $('.footer').toggleClass('gray_bg');
+
+                $('body').toggleClass('dark_bg');
+
+                $('.head').toggleClass('dark_bg');
+                
+                
+                
+                $('.knigi_ramka').toggleClass('dark_bg');
+                
+                $('div').toggleClass('white_color');
+
+                $('.main').toggleClass('dark_bg');
+                $('.knigi_seriya').toggleClass('dark_color');
+                $('.knigi_genre').toggleClass('dark_color');
+                $('.knigi_r').toggleClass('dark_color');
+
+                $('.a_menu').toggleClass('white_color');
+                $('.search_type').toggleClass('white_color');
+                
+                $('.a_paging_active').toggleClass('a_paging_active_dark');
+                
+                $('.font_header').toggleClass('white_color');
+                
+                if (0 == is_dark) {
+                    is_dark = 1;
+                } else {
+                    is_dark = 0;
+                }
+                document.cookie = "hffg=" + is_dark + "; path=/; expires=Tue, 19 Jan 2038 03:14:07 GMT";
+            }
+</script> <div class="footer"> <div class="footer_main"> <div class="footer_counter"> © 2024 xBook<br><br> Почта для связи: <a href="mailto:xbook.shoplift810@passfwd.com">xbook.shoplift810@passfwd.com</a> </div> </div> </div> <style> @media (max-width: 600px) { .wnd { text-align: left; height:max-content; width:100%; position:fixed; top:0; bottom:0; z-index:100; left:0; right:0; margin:auto; padding:0px; -webkit-box-shadow:4.5px 2.6px 12px rgba(0,0,0,.12); box-shadow:4.5px 2.6px 12px rgba(0,0,0,.12); background:#fff; color:#000; font-size:16px } .b_close { margin: 10px 10px 5px 220px; -webkit-border-radius: 10px; border-radius: 10px; color: #ffffff; background: #A54FBE; width: 90px; padding: 9px; font-size: 16px; display: inline-block; text-align: center; } } @media (min-width: 601px) { .wnd { display:block; text-align: left; height:max-content; width:455px; position:fixed; top:0; bottom:0; z-index:100; left:0; right:0; margin:auto; padding:10px; -webkit-box-shadow:4.5px 2.6px 12px rgba(0,0,0,.12); box-shadow:4.5px 2.6px 12px rgba(0,0,0,.12); background:#fff; color:#000; font-size:16px } .b_close { margin: 10px 10px 5px 330px; -webkit-border-radius: 10px; border-radius: 10px; color: #ffffff; background: #A54FBE; width: 90px; padding: 9px; font-size: 16px; display: inline-block; text-align: center; } } .b_close:hover { color: #ffffff; } .msg_error_red { color: red; } .a_wnd { text-decoration: underline; } .p_tooltip { margin:10px; } </style> </body> <script> $('.h3_genre').click(function(event) { $('.div_genre_list').toggleClass('display_none'); }); </script> <!--0.147328 sec.--> </html> 
