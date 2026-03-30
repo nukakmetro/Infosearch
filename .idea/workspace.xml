@@ -1,7 +1,513 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0a8d64d-c66b-4c5a-b7a9-260e05ad141c" name="Changes" comment="added task4" />
+    <list default="true" id="a0a8d64d-c66b-4c5a-b7a9-260e05ad141c" name="Changes" comment="added task4">
+      <change afterPath="$PROJECT_DIR$/Task5/VectorSearchEngine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/Task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/Task4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/index.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/30.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/31.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/33.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/33.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/35.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/35.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/36.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/36.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/37.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/37.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/38.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/38.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/39.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/39.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/40.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/41.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/41.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/42.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/42.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/43.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/43.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/44.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/44.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/45.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/45.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/46.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/46.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/47.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/47.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/48.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/48.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/49.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/49.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/50.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/51.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/51.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/52.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/52.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/53.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/53.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/54.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/54.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/55.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/55.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/56.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/56.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/57.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/57.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/58.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/58.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/59.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/59.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/60.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/60.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/61.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/61.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/62.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/62.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/63.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/63.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/64.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/64.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/65.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/65.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/66.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/66.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/67.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/67.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/68.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/68.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/69.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/69.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/70.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/70.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/71.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/71.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/72.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/72.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/73.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/73.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/74.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/74.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/75.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/75.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/76.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/76.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/77.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/77.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/78.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/78.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/79.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/79.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/80.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/80.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/81.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/81.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/82.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/82.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/83.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/83.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/84.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/84.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/85.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/85.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/86.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/86.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/87.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/87.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/88.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/88.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/89.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/89.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/90.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/90.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/91.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/91.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/92.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/92.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/93.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/93.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/94.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/94.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/95.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/95.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/96.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/96.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/97.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/97.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/98.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/98.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/lemmas/99.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/lemmas/99.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/30.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/31.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/33.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/33.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/35.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/35.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/36.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/36.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/37.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/37.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/38.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/38.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/39.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/39.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/40.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/41.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/41.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/42.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/42.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/43.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/43.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/44.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/44.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/45.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/45.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/46.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/46.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/47.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/47.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/48.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/48.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/49.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/49.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/50.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/51.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/51.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/52.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/52.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/53.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/53.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/54.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/54.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/55.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/55.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/56.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/56.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/57.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/57.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/58.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/58.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/59.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/59.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/60.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/60.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/61.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/61.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/62.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/62.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/63.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/63.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/64.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/64.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/65.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/65.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/66.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/66.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/67.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/67.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/68.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/68.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/69.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/69.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/70.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/70.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/71.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/71.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/72.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/72.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/73.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/73.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/74.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/74.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/75.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/75.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/76.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/76.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/77.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/77.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/78.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/78.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/79.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/79.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/80.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/80.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/81.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/81.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/82.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/82.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/83.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/83.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/84.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/84.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/85.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/85.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/86.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/86.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/87.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/87.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/88.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/88.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/89.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/89.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/90.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/90.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/91.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/91.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/92.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/92.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/93.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/93.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/94.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/94.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/95.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/95.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/96.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/96.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/97.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/97.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/98.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/98.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_lemmas/99.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_lemmas/99.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/30.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/31.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/33.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/33.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/35.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/35.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/36.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/36.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/37.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/37.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/38.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/38.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/39.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/39.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/40.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/41.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/41.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/42.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/42.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/43.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/43.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/44.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/44.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/45.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/45.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/46.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/46.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/47.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/47.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/48.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/48.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/49.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/49.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/50.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/51.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/51.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/52.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/52.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/53.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/53.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/54.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/54.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/55.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/55.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/56.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/56.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/57.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/57.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/58.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/58.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/59.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/59.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/60.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/60.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/61.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/61.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/62.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/62.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/63.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/63.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/64.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/64.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/65.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/65.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/66.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/66.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/67.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/67.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/68.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/68.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/69.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/69.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/70.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/70.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/71.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/71.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/72.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/72.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/73.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/73.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/74.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/74.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/75.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/75.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/76.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/76.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/77.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/77.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/78.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/78.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/79.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/79.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/80.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/80.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/81.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/81.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/82.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/82.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/83.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/83.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/84.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/84.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/85.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/85.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/86.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/86.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/87.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/87.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/88.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/88.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/89.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/89.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/90.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/90.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/91.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/91.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/92.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/92.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/93.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/93.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/94.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/94.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/95.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/95.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/96.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/96.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/97.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/97.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/98.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/98.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/result_tokens/99.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/result_tokens/99.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/30.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/31.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/33.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/33.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/35.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/35.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/36.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/36.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/37.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/37.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/38.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/38.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/39.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/39.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/40.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/41.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/41.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/42.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/42.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/43.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/43.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/44.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/44.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/45.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/45.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/46.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/46.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/47.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/47.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/48.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/48.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/49.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/49.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/50.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/51.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/51.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/52.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/52.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/53.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/53.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/54.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/54.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/55.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/55.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/56.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/56.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/57.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/57.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/58.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/58.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/59.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/59.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/60.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/60.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/61.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/61.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/62.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/62.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/63.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/63.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/64.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/64.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/65.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/65.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/66.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/66.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/67.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/67.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/68.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/68.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/69.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/69.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/70.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/70.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/71.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/71.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/72.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/72.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/73.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/73.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/74.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/74.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/75.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/75.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/76.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/76.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/77.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/77.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/78.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/78.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/79.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/79.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/80.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/80.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/81.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/81.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/82.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/82.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/83.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/83.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/84.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/84.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/85.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/85.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/86.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/86.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/87.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/87.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/88.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/88.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/89.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/89.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/90.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/90.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/91.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/91.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/92.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/92.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/93.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/93.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/94.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/94.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/95.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/95.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/96.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/96.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/97.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/97.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/98.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/98.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/out/tokens/99.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/out/tokens/99.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/30.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/31.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/33.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/33.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/35.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/35.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/36.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/36.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/37.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/37.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/38.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/38.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/39.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/39.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/40.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/41.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/41.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/42.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/42.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/43.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/43.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/44.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/44.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/45.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/45.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/46.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/46.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/47.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/47.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/48.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/48.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/49.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/49.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/50.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/50.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/51.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/51.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/52.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/52.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/53.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/53.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/54.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/54.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/55.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/55.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/56.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/56.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/57.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/57.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/58.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/58.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/59.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/59.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/60.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/60.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/61.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/61.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/62.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/62.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/63.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/63.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/64.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/64.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/65.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/65.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/66.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/66.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/67.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/67.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/68.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/68.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/69.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/69.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/70.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/70.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/71.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/71.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/72.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/72.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/73.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/73.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/74.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/74.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/75.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/75.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/76.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/76.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/77.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/77.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/78.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/78.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/79.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/79.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/80.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/80.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/81.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/81.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/82.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/82.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/83.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/83.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/84.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/84.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/85.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/85.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/86.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/86.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/87.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/87.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/88.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/88.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/89.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/89.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/90.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/90.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/91.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/91.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/92.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/92.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/93.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/93.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/94.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/94.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/95.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/95.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/96.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/96.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/97.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/97.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/98.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/98.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4/pages/99.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/pages/99.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,21 +523,30 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="task2" />
+        <entry key="$PROJECT_DIR$" value="task4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nukakmetro/Infosearch",
-    "accountId": "d85e4d2e-3a01-475a-b022-70962368eb73"
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nukakmetro"
   }
 }]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nukakmetro/Infosearch&quot;,
+    &quot;accountId&quot;: &quot;d85e4d2e-3a01-475a-b022-70962368eb73&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="3AqqnU7WNWvYdotkO8o056fO25i" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,11 +563,158 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "task4",
+    "git-widget-placeholder": "task5",
     "last_opened_file_path": "/Users/surexnx/Github/Infosearch",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Task4" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="Infosearch" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Infosearch" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.Celery" factoryName="Python.Celery.App">
+      <module name="Infosearch" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.Celery" factoryName="Python.Celery.Task">
+      <module name="Infosearch" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="Infosearch" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Infosearch" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="Infosearch" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="Infosearch" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
